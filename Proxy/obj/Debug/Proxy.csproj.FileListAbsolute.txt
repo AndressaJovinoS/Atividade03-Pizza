@@ -1,0 +1,13 @@
+C:\Users\Andressa\source\repos\Pizzaria\Proxy\bin\Debug\Proxy.dll
+C:\Users\Andressa\source\repos\Pizzaria\Proxy\bin\Debug\Proxy.pdb
+C:\Users\Andressa\source\repos\Pizzaria\Proxy\bin\Debug\Data.dll
+C:\Users\Andressa\source\repos\Pizzaria\Proxy\bin\Debug\Model.dll
+C:\Users\Andressa\source\repos\Pizzaria\Proxy\bin\Debug\Util.dll
+C:\Users\Andressa\source\repos\Pizzaria\Proxy\bin\Debug\Data.pdb
+C:\Users\Andressa\source\repos\Pizzaria\Proxy\bin\Debug\Model.pdb
+C:\Users\Andressa\source\repos\Pizzaria\Proxy\bin\Debug\Util.pdb
+C:\Users\Andressa\source\repos\Pizzaria\Proxy\obj\Debug\Proxy.csprojAssemblyReference.cache
+C:\Users\Andressa\source\repos\Pizzaria\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\Andressa\source\repos\Pizzaria\Proxy\obj\Debug\Proxy.csproj.CopyComplete
+C:\Users\Andressa\source\repos\Pizzaria\Proxy\obj\Debug\Proxy.dll
+C:\Users\Andressa\source\repos\Pizzaria\Proxy\obj\Debug\Proxy.pdb

@@ -1,0 +1,11 @@
+C:\Users\Andressa\source\repos\Pizzaria\Data\bin\Debug\Data.dll
+C:\Users\Andressa\source\repos\Pizzaria\Data\bin\Debug\Data.pdb
+C:\Users\Andressa\source\repos\Pizzaria\Data\bin\Debug\Model.dll
+C:\Users\Andressa\source\repos\Pizzaria\Data\bin\Debug\Util.dll
+C:\Users\Andressa\source\repos\Pizzaria\Data\bin\Debug\Model.pdb
+C:\Users\Andressa\source\repos\Pizzaria\Data\bin\Debug\Util.pdb
+C:\Users\Andressa\source\repos\Pizzaria\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\Andressa\source\repos\Pizzaria\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Andressa\source\repos\Pizzaria\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\Andressa\source\repos\Pizzaria\Data\obj\Debug\Data.dll
+C:\Users\Andressa\source\repos\Pizzaria\Data\obj\Debug\Data.pdb
